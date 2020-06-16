@@ -2,5 +2,6 @@
 
 ## 待办
 
-[-] kafka
-[-] serverless
+ - [ ] kafka
+ - [ ] serverless
+ - [ ] Nginx
